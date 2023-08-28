@@ -5,7 +5,7 @@ import { Footer } from "./components/footer"
 export default function App () {
   return (
     <div>
-      <Header title = "Qualquer titulo"/>
+      <Header />
 
       <Aluno nome="Raphael Almeida" idade = {31}/>
 
